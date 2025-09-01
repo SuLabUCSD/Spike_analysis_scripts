@@ -8,13 +8,15 @@ Data organization
 Run Spike_sorting_prep.mlapp
 This GUI organizes the data for spike analysis and LFP analysis.
 
-1. Click “Load folder” and select the data folder containing all the abf files.
+1. Set path to “plotSpread.m” (see "Associate_function" folder)
 
-2. Input the n number, number of dilutions, and delta t.
+2. Click “Load folder” and select the data folder containing all the abf files.
 
-3. Click “Start”
+3. Input the n number, number of dilutions, and delta t.
 
-4. Click “Save spikes” and “Save LFP”
+4. Click “Start”
+
+5. Click “Save spikes” and “Save LFP”
 
 Spike sorting
 This GUI allows users to sort the spikes and obtain the spike timing
